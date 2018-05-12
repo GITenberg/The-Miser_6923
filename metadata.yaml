@@ -1,5 +1,5 @@
 _repo: The-Miser_6923
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: L'avare. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     - Wall, C. H. (Charles Heron)
     gutenberg_agent_id: '2877'
     url: http://www.gutenberg.org/2009/agents/2877
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Molière
@@ -25,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Moli%C3%A8re
     - http://en.wikipedia.org/wiki/Moli%C3%A8re
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6923#The-Miser
 gutenberg_issued: '2004-11-01'
 gutenberg_type: Text
 identifiers:
